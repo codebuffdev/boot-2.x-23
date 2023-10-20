@@ -1,6 +1,9 @@
 # Compiled class file
 *.class
 
+# IDE 
+boot-01-manual-setup/.idea
+
 # Log file
 *.log
 
